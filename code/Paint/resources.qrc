@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resource/DarkBlue.png</file>
+        <file>resource/DarkCyan.png</file>
+        <file>resource/DeepSkyBlue.png</file>
+        <file>resource/Gold.png</file>
+        <file>resource/LawnGreen.png</file>
+        <file>resource/LightSteelBlue.png</file>
+        <file>resource/Maroon.png</file>
+        <file>resource/OrangeRed.png</file>
+        <file>resource/PeachPuff.png</file>
+        <file>resource/SpringGreen.png</file>
+        <file>resource/Yellow.png</file>
+        <file>resource/Blue.png</file>
+        <file>resource/Black.png</file>
+        <file>resource/White.png</file>
+        <file>resource/Line.png</file>
+        <file>resource/Oval.png</file>
+        <file>resource/Circle.png</file>
+        <file>resource/Fill.png</file>
+        <file>resource/ClearScreen.png</file>
+        <file>resource/Edit.png</file>
+        <file>resource/Rotate.png</file>
+        <file>resource/Translate.png</file>
+        <file>resource/Save.png</file>
+        <file>resource/Cut.png</file>
+        <file>resource/Curve.png</file>
+        <file>resource/Polygon.png</file>
+        <file>resource/Rectangle.png</file>
+    </qresource>
+</RCC>
